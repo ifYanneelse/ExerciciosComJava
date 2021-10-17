@@ -1,5 +1,6 @@
 # ExerciciosComJava
-Atividades em Java pelo NetBeans realizados no curso de Desenvolvimento de Sistema
+Atividades feito em Java pelo NetBeans realizados no curso de Desenvolvimento de Sistema.
+Activities done in Java by NetBeans performed in the System Development class.
 
 *Instruções básicas
 1. Escreva um aplicativo em Java que lê três inteiros digitados pelo usuário e exibe a soma, a média, o produto, o maior e o menor desses números em um diálogo de mensagem de 
