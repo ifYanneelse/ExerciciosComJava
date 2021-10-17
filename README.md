@@ -1,6 +1,6 @@
 # ExerciciosComJava
 
-Activities done in Java by NetBeans performed in the System Development class.
+Java Activities on NetBeans done in the System Development class.
 
 Atividades feito em Java pelo NetBeans realizados no curso de Desenvolvimento de Sistema.
 
