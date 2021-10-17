@@ -21,8 +21,8 @@ o índice de poluição medido e emita a notificação adequada aos diferentes g
 7. Um aplicativo Java que determine o salário bruto de cada um de n empregados. A empresa paga “hora normal” pelas primeiras 40 horas trabalhadas por cada empregado e “horas extras” com 50% de gratificação para todas as horas trabalhadas além de 40 horas. Recebe uma relação dos empregados da empresa, o número de horas trabalhadas por cada empregado na última semana e o salário-hora de cada empregado.
 8. Digitar cada mercadoria com o nome, preço de compra preço de venda das mercadorias. Um programa que determine e escreva quantas mercadorias proporcionam:
 Lucro menor 10 % | Lucro entre 10% e 20% | Lucro maior que 20%
-9. Leia e escreva o nome e a altura das moças inscritas em um concurso de beleza. Calcule e escreva as duas maiores alturas e quantas moças a possuem.
-10. Uma Universidade deseja fazer um levantamento a respeito de seu concurso vestibular. Calcule e escreva, para cada curso, o número de candidatos por vaga e a percentagem de
+9. [Atividade não completa] Leia e escreva o nome e a altura das moças inscritas em um concurso de beleza. Calcule e escreva as duas maiores alturas e quantas moças a possuem.
+10. [Atividade não completa] Uma Universidade deseja fazer um levantamento a respeito de seu concurso vestibular. Calcule e escreva, para cada curso, o número de candidatos por vaga e a percentagem de
 candidatos do sexo feminino | Determine o maior número de candidatos por vaga | Calcule e escreva o total de candidatos.
 11. Deseja-se fazer uma pesquisa a respeito do consumo mensal de energia elétrica em uma determinada cidade. Fazer um programa que leia os dados descritos acima; Calcule:
 Para cada consumidor, o total a pagar | O maior consumo verificado | O menor consumo verificado | O total de consumo para cada um dos três tipos de consumidores | A média geral de consumo 
