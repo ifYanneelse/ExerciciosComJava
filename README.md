@@ -43,3 +43,7 @@ No programa um menu de opções que permita ao usuário escolher a operação de
 13. Um estacionamento cobra uma taxa mínima de R$ 2,00 para estacionar por até três horas. Um adicional de R$ 0,50 por hora não necessariamente inteira é cobrado após as três primeiras horas. A taxa máxima para qualquer dado período de 24 horas é R$ 10,00. Um programa que calcula e exibe a taxa de estacionamento para cada cliente. E exibir o total dos recibos. 
 
 14. Um programa que solicita o total gasto pelo cliente de uma loja, imprime as opções de pagamento, solicita a opção desejada e imprime o valor total das parcelas (quando houverem).
+
+<br>
+
+2021
